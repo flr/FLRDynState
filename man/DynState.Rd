@@ -75,7 +75,7 @@
 
 
 
- effort <- array(c(9,8,7),dim=3,1)
+ effort <- array(c(9,8,7),dim=c(3,1))
 
 
 
